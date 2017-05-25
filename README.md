@@ -1,0 +1,1 @@
+My solution to lintcode. Keep updating…
